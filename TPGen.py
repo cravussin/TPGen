@@ -74,11 +74,6 @@ def inputMain():
             noq = input("Numéro de question à modifier: ")
             no_question = int(noq)
 
-def mongolo():
-  for range(1,12):
-    print('huuh')
-
-    
 def inputQuestion(no_question):
     question = []
     classes = []
